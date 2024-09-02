@@ -1,4 +1,4 @@
 fun main(args: Array<String>) {
-    println("Hello ini progra pertama saya di kortlin")
+    println("Hello ini program pertama saya di kortlin")
 }
 
