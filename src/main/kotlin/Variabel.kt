@@ -6,5 +6,5 @@ fun main(args: Array<String>) {
     // statuc variable
     var StaticVar: Char = 'A'
     println("Contoh  sttic Variabel = " +StaticVar)
-
+    //staticVar = 34
 }
