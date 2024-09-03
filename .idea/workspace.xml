@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="366c9802-7aa3-4a7d-b9d2-dff6d940e471" name="Changes" comment="add Variabel.kt" />
+    <list default="true" id="366c9802-7aa3-4a7d-b9d2-dff6d940e471" name="Changes" comment="add Variabel.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/var.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.VariabelKt">
+  <component name="RunManager" selected="Kotlin.VarKt">
     <configuration name="BlokKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokKt" />
       <module name="PemrogramanMobileNew" />
@@ -46,6 +48,13 @@
     </configuration>
     <configuration name="KomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KomentarKt" />
+      <module name="PemrogramanMobileNew" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarKt" />
       <module name="PemrogramanMobileNew" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,20 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhitespacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhitespacesKt" />
-      <module name="PemrogramanMobileNew" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VarKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.KomentarKt" />
         <item itemvalue="Kotlin.BlokKt" />
         <item itemvalue="Kotlin.Whitespaces2Kt" />
-        <item itemvalue="Kotlin.WhitespacesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725367288516</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add Variabel.kt">
+      <created>1725367455277</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725367455277</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
