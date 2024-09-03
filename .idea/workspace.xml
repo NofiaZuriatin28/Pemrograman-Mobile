@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="366c9802-7aa3-4a7d-b9d2-dff6d940e471" name="Changes" comment="add Komentar.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Variabel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="366c9802-7aa3-4a7d-b9d2-dff6d940e471" name="Changes" comment="add Variabel.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725366617030</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add Variabel.kt">
+      <created>1725367288516</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725367288516</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +177,7 @@
     <MESSAGE value="add Whitespaces2.kt" />
     <MESSAGE value="add Blok.kt" />
     <MESSAGE value="add Komentar.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Komentar.kt" />
+    <MESSAGE value="add Variabel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Variabel.kt" />
   </component>
 </project>
