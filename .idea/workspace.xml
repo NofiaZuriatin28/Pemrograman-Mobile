@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="366c9802-7aa3-4a7d-b9d2-dff6d940e471" name="Changes" comment="add StringTemplates.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiAnggotaPadaString.kt" afterDir="false" />
+    <list default="true" id="366c9802-7aa3-4a7d-b9d2-dff6d940e471" name="Changes" comment="add FungsiAnggotaPadaString.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanStrirng.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PenerapanStrirngKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PenerapanStrirngKt" />
+      <module name="PemrogramanMobileNew" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringKt" />
       <module name="PemrogramanMobileNew" />
@@ -68,20 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipeDataKt" />
-      <module name="PemrogramanMobileNew" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.FungsiAnggotaPadaStringKt" />
+        <item itemvalue="Kotlin.PenerapanStrirngKt" />
         <item itemvalue="Kotlin.StringTemplatesKt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.BooleanKt" />
-        <item itemvalue="Kotlin.TipeDataKt" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725450420425</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add FungsiAnggotaPadaString.kt">
+      <created>1725451489128</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1725451489128</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +257,7 @@
     <MESSAGE value="add Boolean.kt" />
     <MESSAGE value="add String.kt" />
     <MESSAGE value="add StringTemplates.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add StringTemplates.kt" />
+    <MESSAGE value="add FungsiAnggotaPadaString.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add FungsiAnggotaPadaString.kt" />
   </component>
 </project>
