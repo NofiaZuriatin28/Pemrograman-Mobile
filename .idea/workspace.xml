@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="366c9802-7aa3-4a7d-b9d2-dff6d940e471" name="Changes" comment="add MasukkanDiKotlin.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiReadLine.kt" afterDir="false" />
-    </list>
+    <list default="true" id="366c9802-7aa3-4a7d-b9d2-dff6d940e471" name="Changes" comment="add ProgramKalkulator.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -255,7 +253,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725590428993</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add FungsiReadLine.kt">
+      <created>1725591208949</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725591208949</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add ProgramKalkulator.kt">
+      <created>1725591386475</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725591386475</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +300,8 @@
     <MESSAGE value="add ProgramCaesarChiper.kt" />
     <MESSAGE value="add ProgramSandiMorse.kt" />
     <MESSAGE value="add MasukkanDiKotlin.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add MasukkanDiKotlin.kt" />
+    <MESSAGE value="add FungsiReadLine.kt" />
+    <MESSAGE value="add ProgramKalkulator.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ProgramKalkulator.kt" />
   </component>
 </project>
