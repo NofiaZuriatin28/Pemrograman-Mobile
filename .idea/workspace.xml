@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="366c9802-7aa3-4a7d-b9d2-dff6d940e471" name="Changes" comment="add ProgramCaesarChiper.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ProgramSandiMorse.kt" afterDir="false" />
+    <list default="true" id="366c9802-7aa3-4a7d-b9d2-dff6d940e471" name="Changes" comment="add ProgramSandiMorse.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MasukkanDiKotlin.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +39,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ProgramSandiMorseKt">
+  <component name="RunManager" selected="Kotlin.MasukkanDiKotlinKt">
     <configuration name="FungsiAnggotaPadaStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FungsiAnggotaPadaStringKt" />
+      <module name="PemrogramanMobileNew" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasukkanDiKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MasukkanDiKotlinKt" />
       <module name="PemrogramanMobileNew" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,20 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringTemplatesKt" />
-      <module name="PemrogramanMobileNew" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MasukkanDiKotlinKt" />
         <item itemvalue="Kotlin.ProgramSandiMorseKt" />
         <item itemvalue="Kotlin.ProgramCaesarChiperKt" />
         <item itemvalue="Kotlin.PenerapanStrirngKt" />
         <item itemvalue="Kotlin.FungsiAnggotaPadaStringKt" />
-        <item itemvalue="Kotlin.StringTemplatesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725589493609</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add ProgramSandiMorse.kt">
+      <created>1725589838064</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1725589838064</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,6 +279,7 @@
     <MESSAGE value="add StringTemplates.kt" />
     <MESSAGE value="add FungsiAnggotaPadaString.kt" />
     <MESSAGE value="add ProgramCaesarChiper.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ProgramCaesarChiper.kt" />
+    <MESSAGE value="add ProgramSandiMorse.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ProgramSandiMorse.kt" />
   </component>
 </project>
