@@ -39,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FungsiReadLineKt">
+  <component name="RunManager" selected="Kotlin.ProgramKalkulatorKt">
     <configuration name="FungsiReadLineKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FungsiReadLineKt" />
       <module name="PemrogramanMobileNew" />
@@ -54,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PenerapanStrirngKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PenerapanStrirngKt" />
+    <configuration name="ProgramCaesarChiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramCaesarChiperKt" />
       <module name="PemrogramanMobileNew" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramCaesarChiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgramCaesarChiperKt" />
+    <configuration name="ProgramKalkulatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramKalkulatorKt" />
       <module name="PemrogramanMobileNew" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ProgramKalkulatorKt" />
         <item itemvalue="Kotlin.FungsiReadLineKt" />
         <item itemvalue="Kotlin.MasukkanDiKotlinKt" />
         <item itemvalue="Kotlin.ProgramSandiMorseKt" />
         <item itemvalue="Kotlin.ProgramCaesarChiperKt" />
-        <item itemvalue="Kotlin.PenerapanStrirngKt" />
       </list>
     </recent_temporary>
   </component>
